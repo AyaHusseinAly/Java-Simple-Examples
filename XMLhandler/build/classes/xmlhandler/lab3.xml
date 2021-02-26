@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<r>
+<employee>
+  <name>Aya Hussein</name>
+  <phone>01273274536</phone>
+  <address>Miami</address>
+  <email>aya.hussein3107@gmail.com</email>
+</employee>  
+<employee>
+  <name>Eman Ali</name>
+  <phone>0120055716</phone>
+  <address>stanely</address>
+  <email>emanali254@gmail.com</email>
+</employee>  
+<employee>
+  <name>Farid Hassan</name>
+  <phone>0109330752</phone>
+  <address>roushdy</address>
+  <email>faridh95@yahoo.com</email>
+</employee>  
+  
+
+</r>
